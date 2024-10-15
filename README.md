@@ -28,6 +28,10 @@ fun resetDevice() {
 * add listener functionality to observe GPIO statuses
 * create GUI similar to the [utility tool by MicroChip](https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/SoftwareLibraries/Firmware/MCP2221Utility.zip)
 
+## Acknowledgements
+
+The code is based on [this .NET imnplementation](https://github.com/DerekGn/MCP2221IO) by DerekGn.
+
 ## License
 
 cf. [LICENSE](LICENSE)
