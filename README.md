@@ -30,7 +30,7 @@ fun resetDevice() {
 
 ## Acknowledgements
 
-The code is based on [this .NET imnplementation](https://github.com/DerekGn/MCP2221IO) by DerekGn.
+The code is based on [this .NET implementation](https://github.com/DerekGn/MCP2221IO) by DerekGn.
 
 ## License
 
