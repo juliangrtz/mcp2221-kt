@@ -1,0 +1,3 @@
+package mcp2221.commands
+
+class ReadChipSettingsCommand : ReadFlashDataCommand(ReadFlashSubCode.ReadChipSettings)
