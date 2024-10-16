@@ -1,4 +1,4 @@
-# mcp2221a-kt
+# mcp2221-kt
 
 This is a Kotlin library allowing you to communicate with [MCP2221](https://www.microchip.com/en-us/product/MCP2221) and [MCP2221A](https://www.microchip.com/en-us/product/MCP2221A) devices over USB. It supports all of the operations described in [the data sheet](docs/data_sheet.pdf).
 
